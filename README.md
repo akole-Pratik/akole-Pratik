@@ -24,9 +24,15 @@ Good understanding of SQL creating, manipulating databases, Views, procedures, f
 
 ## Skills
 Programming Language : Python, SQL
+
 Data Analysis : Pandas, NumPy, Matplotlib, Seaborn
+
 Machine Learning: Scikit-learn, TensorFlow, Kera’s
+
 Data Visualization: Power BI, Tableau
+
 Statistical Analysis: Statistics, Regression Analysis
+
 Communication: Written and verbal communication
-Teamwork: Collaborative problem-solving, 
+
+Teamwork: Collaborative problem-solving
