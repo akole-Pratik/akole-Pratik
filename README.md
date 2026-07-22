@@ -3,7 +3,8 @@
 ## I'm Pratik Akole
 
 ## About me
-I am a proactive Research Analyst with 10 months of hands-on experience in data analysis and data research. My approach involves leveraging advanced analytics and machine learning techniques to uncover actionable insights and trends. I am deeply passionate about using data to drive strategic decision-making and improve business outcomes. I am now seeking a challenging role where I can continue to grow professionally and contribute to innovative projects.
+Data Analyst with 2 years of experience in data analysis, reporting, and data quality management. Skilled in SQL, Excel, Power BI, and Python, with hands-on experience in data cleaning, validation, dashboard creation, and database management. 
+Strong analytical thinking and attention to detail with a focus on delivering accurate insights for business decisions.
 
 - 🔭 I’m currently working as Analyst...
 - 🌱 I’m currently learning New technologies like ML, AI, Power BI, etc.
