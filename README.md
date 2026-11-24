@@ -3,7 +3,7 @@
 ## I'm Pratik Akole
 
 ## About me
-Data Analyst with 2 years of experience in data analysis, reporting, and data quality management. Skilled in SQL, Excel, Power BI, and Python, with hands-on experience in data cleaning, validation, dashboard creation, and database management. 
+Data Analyst with 2.5 years of experience in data analysis, reporting, and data quality management. Skilled in SQL, Excel, Power BI, and Python, with hands-on experience in data cleaning, validation, dashboard creation, and database management. 
 Strong analytical thinking and attention to detail with a focus on delivering accurate insights for business decisions.
 
 - 🔭 I’m currently working as Analyst...
